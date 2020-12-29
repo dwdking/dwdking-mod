@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dwdking:blocks/vibranium_block"
+  }
+}
