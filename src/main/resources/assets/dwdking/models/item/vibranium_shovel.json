@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "dwdking:items/vibranium_shovel"
+  }
+}

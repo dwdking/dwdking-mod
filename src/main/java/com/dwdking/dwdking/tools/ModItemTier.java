@@ -9,7 +9,7 @@ import java.util.function.Supplier;
 public enum ModItemTier implements IItemTier {
 
     VIBRANIUM(9999, 9999, 99.0F, 99.0F, 15, () -> {
-        return Ingredient.fromItems(VibraniumRegistryHandler.VIBRANIUM_SWORD.get());
+        return Ingredient.fromItems(VibraniumRegistryHandler.VIBRANIUM.get());
     });
 
     private final int harvestLevel;
