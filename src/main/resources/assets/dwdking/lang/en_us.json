@@ -2,5 +2,9 @@
   "item.dwdking.vibranium": "Vibranium",
   "block.dwdking.vibranium_block": "Vibranium Block",
   "item.dwdking.vibranium_sword": "Vibranium Sword",
+  "item.dwdking.vibranium_axe": "Vibranium Axe",
+  "item.dwdking.vibranium_pickaxe": "Vibranium Pickaxe",
+  "item.dwdking.vibranium_shovel": "Vibranium Shovel",
+  "item.dwdking.vibranium_hoe": "Vibranium Hoe",
   "itemGroup.vibraniumTab": "Vibranium Tab"
 }
